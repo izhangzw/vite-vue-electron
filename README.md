@@ -1,5 +1,8 @@
 # vite+vue+electron
 
+支持electron热更新
+打包
+
 ## Tech
 
 - vite@4.4.9
